@@ -1,0 +1,21 @@
+{
+    "name": "pxt-kapakai",
+    "version": "0.0.1",
+    "description": "Extension block for controlling Kapakai Robot",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "kapakai.ts",
+        "_locales/es-pe/pxt-kapakai-strings.json",
+        "_locales/no-nb/pxt-kapakai-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "yotta": {
+        "config": {}
+    }
+}

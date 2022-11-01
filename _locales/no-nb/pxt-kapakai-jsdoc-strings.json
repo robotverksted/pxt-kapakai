@@ -1,0 +1,21 @@
+{
+    "kapakai": "Kode blokker for roboten Kapakai",
+    "kapakai.checkDistane":"Still inn betingelser for avstandssensor, standardverdi 600",
+    "kapakai.serialRead":"Leser kommunikasjon med blåtann via seriellport",
+    "kapakai.direction":"Styrer retningen til robotens frontdelen",
+    "kapakai.changeMotionSpeed":"Endrer bevegelseshastighet",
+    "kapakai.servoWrite":"Spesifiserer hvilket robotlemmet skal endre vinkelen",
+    "kapakai.basicMotion":"Får roboten til å utføre den grunnleggende bevegelsen",
+    "kapakai.futbolMotion":"Får roboten til å utføre et fotballtrekk",
+    "kapakai.deliveryMotion":"Får roboten til å levere en boks",
+    "kapakai.danceMotion":"Får roboten til å utføre et dansetrinn",
+    "kapakai.walk":"Får roboten til å gå fremmover, eller bakover du kan bytte mellom å gå eller stoppe",
+    "kapakai.motion":"Spesifiserer bevegelsen ut fra et tall og la roboten gjøre det",
+    "kapakai.setAngle":"Spesifiserer hver vinkel og hastighet til servomotoren du vil styre selv. Den brukes til å skape egne bevegelser",
+    "kapakai.savePositon":"Angir servomotoren og vinkelen og lagrer den i EEPROM minne, for justering av hjemmeposisjon",
+    "kapakai.resetPosition":"Initialiserer posisjonsinformasjonen lagret i EEPROM minne. Brukes for justering av hjemmeposisjonsinnstilling",
+    "kapakai.servoAdjust":"Brukes for hjemmeposisjonsjustering, slik at man beveger den spesifiserte servomotoren nøyaktig.",
+    "kapakai.servoInitialSet":"Flytter servomotoren til utgangsposisjon",
+    "kapakai.servoFree":"Slipper servomotoren",
+    "kapakai.setColor":"Valg av farge som roboten skal bruke"
+  }
